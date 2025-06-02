@@ -7,6 +7,7 @@ I cleaned all data into text
 And changed age, credit status into group 
 Created the dashboard with count of exited and no of customers 
 And also changed the product into text 
+The link given below consists of {link}[https://github.com/manibharathi17/CUSTOMER-CHURN-DATA-ANALYSIS/blob/main/Bank%20Customer%20Churn%20Prediction.csv]  
 Findings:
 Female =1139  
 Male = 898  
